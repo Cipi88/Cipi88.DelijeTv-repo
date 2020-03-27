@@ -1,0 +1,22 @@
+Verzija 1.0.0
+- Prva verzija
+Verzija 2.0.0
+- Instalacija na Kodi 18
+Verzija 2.1.0
+- Promijena izgleda i naziva
+Verzija 2.1.1
+- Promijena linka
+Verzija 2.1.2
+- Promijena izgleda
+Verzija 2.1.3
+- Promijena izgleda
+Verzija 2.1.4
+- Promijena izgleda
+Verzija 2.1.5
+- Promijena izgleda
+Verzija 2.1.6
+- Ispravljanje greske
+Verzija 2.1.7
+- Ispravljanje greske
+Verzija 2.1.8
+- Ispravljanje greske

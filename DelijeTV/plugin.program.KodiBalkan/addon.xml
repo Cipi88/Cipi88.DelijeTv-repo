@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+				<!--// Balkan Green Wizard \\-->
+				
+<addon 
+	id="plugin.program.KodiBalkan" 
+	name="[COLOR=lime]Balkan Green[/COLOR] [COLOR=white]Wizard[/COLOR]" 
+	version="2.1.8" 
+	provider-name="Kodi Balkan Green">
+	  <requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	  </requires>
+		  <extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>executable</provides>
+		  </extension>
+		  <extension point="xbmc.service" library="startup.py" start="startup" />
+		  <extension point="xbmc.addon.metadata">
+		<summary lang="hr_HR">Balkan Green Wizard za instalaciju Kodi Balkan Green Builda. Balkan Green Build se automatski azuriraju svakom novom verzijom. Za vise informacija [COLOR cyan]Facebook[/COLOR] Grupa: [COLOR=lime]Balkan Green[/COLOR] - [COLOR=cyan]Web Site[/COLOR] [COLOR=lime]kodibalkan.org[/COLOR]</summary>
+		<summary lang="en_GB">Balkan Green Wizard to Install the Kodi Balkan Green Builds. Balkan Green Build use automatically updated with each new version build's. More information on [COLOR cyan]Facebook[/COLOR] Group: [COLOR=lime]Balkan Green[/COLOR] - [COLOR=cyan]Web Site[/COLOR] [COLOR=lime]kodibalkan.org[/COLOR]</summary>
+		<description lang="hr_HR">Build za sve korisnike Kodija. Besplatno koristenje za sve, bez ogranicenja i zabrana. [COLOR=lime]Ne placajte ovu besplatnu instalaciju[/COLOR]. Ovo je Balkan Green Wizard Posjetite nas na [COLOR cyan]Facebook[/COLOR] Grupa: [COLOR=lime]Balkan Green[/COLOR] ili putem [COLOR=cyan]web [/COLOR]stranice [COLOR=cyan]kodibalkan.org[/COLOR]. Vas [COLOR=lime]Kodi Balkan Green[/COLOR]</description>
+		<description lang="en_GB">Build for all Kodi users. Free use for all without limits. [COLOR=lime]Do not pay this free installation[/COLOR]. This is the Balkan Green Wizard. Visit on [COLOR cyan]Facebook[/COLOR] Group: [COLOR=lime]Balkan Green[/COLOR] or [COLOR=cyan]web[/COLOR] site [COLOR = cyan]kodibalkan.org[/COLOR]. Your [COLOR=lime]Kodi Balkan Green[/COLOR]</description>
+		<news lang="hr_HR">Nova verzija [COLOR=lime]Balkan Green[/COLOR] [COLOR=white]Wizard[/COLOR]-a. Verzija: 2.1.8 Ispravljeni nedostatci, izmijenjen izgled i funkcionalnost. Za vise informacija [COLOR cyan]Facebook[/COLOR] Grupa: [COLOR=lime]Balkan Green[/COLOR] - [COLOR=cyan]Web Site[/COLOR] [COLOR=lime]kodibalkan.org[/COLOR]</news>
+		<news lang="en_GB">New version of the [COLOR=lime]Balkan Green[/COLOR] [COLOR=white]Wizard[/COLOR]. Version: 2.1.8 Fixed bugs, changed layout and functionality. More information on [COLOR cyan]Facebook[/COLOR] Group: [COLOR=lime]Balkan Green[/COLOR] - [COLOR=cyan]Web Site[/COLOR] [COLOR=lime]kodibalkan.org[/COLOR]</news>
+		<disclaimer lang="hr_HR">Autor ovog wizarda ne sadrzi bilo koji sadrzaj koji se nalazi i nema vezu s bilo kojim davateljima sadrzaja. Koristite na vlastiti rizik! Za vise informacija [COLOR cyan]Facebook[/COLOR] Grupa: [COLOR=lime]Balkan Green[/COLOR] - [COLOR=cyan]Web Site[/COLOR] [COLOR=lime]kodibalkan.org[/COLOR]</disclaimer>			
+		<disclaimer lang="en_GB">Author of this wizard does not contain any content and has no connection with any content provider. Use at your own risk! More information on [COLOR cyan]Facebook[/COLOR] Group: [COLOR=lime]Balkan Green[/COLOR] - [COLOR=cyan]Web Site[/COLOR] [COLOR=lime]kodibalkan.org[/COLOR]</disclaimer>
+			<platform>all</platform>
+			<website>http://kodibalkan.org</website>
+  </extension>
+</addon>
+
+<!--
+
+############################################################################
+#				            $$ $										   #
+#				       $$$$$$$$$$										   #
+#				  $ $$$$ $      $ 									       #
+#				$$$$$            $$										   #
+#				 $               $										   #
+#				  $              $$										   #
+#				  $$              $										   #
+#				   $     $ $$$$$    $									   #
+#				    $$$$$   $  $   $								       #
+#				    $   $   $  $    $									   #
+#				    $ $ $$   $$     $$$									   #
+#				     $$$$ $$$       $$$									   #
+#				      $ $$        $$$  $							       #
+#				       $$      $$$$ $ $$$$$ $							   #
+#				       $$   $$$$$$$ $$$   $$$$$$$						   #
+#				        $$$$     $$$$$$$      $$$$$$					   #
+#				                   $$$$$$$  $$$$$$  $$					   #
+#				                  $$$$$ $$$$        $					   #
+#				                   $$$    $      $$  $					   #
+#				                   $$$   $$      $  $					   #
+#				                      $   $$     $$ $ 					   #
+#				                     $   $$    $  $						   #
+#				                     $$   $ $  $  $						   #
+#				                   $    $ $  $   $$						   #
+#				                   $ $   $$$$$  $$$$$					   #
+#				                     $$$$$$$$$$$$$$$					   #
+#				                     $$$ $$$$$$$$$$$$					   #
+#				                    $$$$$$$$ $ $$$$$					   #
+#				                  $$$$$$$$$$ $$ $$$$$$					   #
+#				                  $$$$$$$$$$$							   #
+############################################################################
+
+-->
